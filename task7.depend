@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1607709712 source:c:\users\Владимир\desktop\Матмех\3 семестр\task 7\main.cpp
+	<iostream>
+	<list>
+	<iterator>
+	<utility>
+
